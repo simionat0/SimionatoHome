@@ -1,0 +1,15 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_EXTENSION_VERSION": "~1",
+    "ScmType": "None",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=simionatohome;AccountKey=4dQDM7h5Lfzt4eWGxjSGy64oMvyNb2oSYsEyXpd/hfEdF9s8LeKv1UJQ3GTLwWedpIAvUBYzRUWovbFxyux2Ag==",
+    "WEBSITE_NODE_DEFAULT_VERSION": "6.5.0",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=simionatohome;AccountKey=4dQDM7h5Lfzt4eWGxjSGy64oMvyNb2oSYsEyXpd/hfEdF9s8LeKv1UJQ3GTLwWedpIAvUBYzRUWovbFxyux2Ag==",
+    "WEBSITE_CONTENTSHARE": "simionatohome9430",
+    "WEBSITE_SITE_NAME": "SimionatoHome",
+    "WEBSITE_SLOT_NAME": "Production",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=simionatohome;AccountKey=4dQDM7h5Lfzt4eWGxjSGy64oMvyNb2oSYsEyXpd/hfEdF9s8LeKv1UJQ3GTLwWedpIAvUBYzRUWovbFxyux2Ag=="
+  }
+}
